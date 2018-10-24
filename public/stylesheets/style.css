@@ -1,0 +1,23 @@
+.thumbnail{
+     text-align: center;
+}
+.thumbnail img{
+     height: 200px;
+     width: 150px;
+}
+
+.thumbnail  .description{
+     color: #7f7f7f;
+     text-align: justify;
+}
+.price{
+     font-weight: bold;
+     font-size: 25px;
+     color: blue;
+}
+
+
+.form-head{
+     text-align: center;
+     font-weight: bold;
+}
